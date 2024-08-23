@@ -24,3 +24,4 @@ int main()
 	system("pause");
 	return 0;
 }
+//这串代码是用来测试静态变量的内存大小的
